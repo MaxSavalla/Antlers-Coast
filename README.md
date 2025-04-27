@@ -25,15 +25,10 @@
 
 <nav>
     <a href="#fundacao">Fundacao</a>
-    
     <a href="#festival">Festival Fhalma N’ghtfyar</a>
-    
     <a href="#secretarias">Secretarias</a>
-    
     <a href="#prefeito">Prefeito</a>
-    
     <a href="#economia">Economia</a>
-    
     <a href="#hino">Hino Oficial</a>
 </nav>
 
